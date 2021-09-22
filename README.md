@@ -54,6 +54,9 @@ Obtain a [PyRosetta licence](https://els2.comotion.uw.edu/product/pyrosetta) and
 ```
 cd example
 ../run_[pyrosetta, e2e]_ver.sh input.fa .
+
+../run_pyrosetta_ver.sh input.fa .
+../run_e2e_ver.sh input.fa .
 ```
 
 ## Expected outputs
